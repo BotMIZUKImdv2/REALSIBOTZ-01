@@ -118,8 +118,8 @@ global.wm2 = '➳༻❀Realsi - Ganz❁ུ۪۪.;:୭̥.' //Name Wm
 global.wm3 = '⫹⫺ Realsi 𝗕𝗢𝗧'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = '𝗬𝗧: FANGZ BOT' //Ganti serah lu
-global.author = '                ✧ Fangz BOT⁩ ✧' //Wm author
+global.titlebot = 'GC: REALSI BOT' //Ganti serah lu
+global.author = '                ✧ By Alwi ✧' //Wm author
 
 
 /*⫘⫘⫘⫘ LOGO ⫘⫘⫘⫘⫘*/
